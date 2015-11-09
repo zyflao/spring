@@ -1,8 +1,10 @@
-package zyf.com.java.service;
+package java.zyf.com.service;
 
-public class SayHello {
+public class SayHelloTest {
 	private void knight() {
 	System.out.println("hello word!");
 
+	
+	
 	}
 }
