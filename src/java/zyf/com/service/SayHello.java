@@ -2,6 +2,8 @@ package java.zyf.com.service;
 
 import java.zyf.com.dao.User;
 
+import com.alibaba.dubbo.config.annotation.Service;
+@Service
 public class SayHello {
 	User user;
 	private void knight() {
@@ -10,5 +12,8 @@ public class SayHello {
 
 	
 	
+	}
+	public static void main(String[] args) {
+		
 	}
 }
