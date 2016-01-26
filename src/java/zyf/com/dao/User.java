@@ -2,8 +2,6 @@ package java.zyf.com.dao;
 
 import java.util.Date;
 
-import org.springframework.stereotype.Component;
-@Component
 public class User {
 	private String name="云峰";
 	private Date updatetime;
